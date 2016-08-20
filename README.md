@@ -14,7 +14,12 @@ True Source files NON ALtered from DarkLord Look like this:
 
 The Hardware Brand is represented in the path.
 
-This repository contains the decrypted and decompressed contents of the `eqgrp-free-file.tar.xz` file released by "The Shadow Brokers". The contents are supposedly a free sample of the files exfiltrated from the [Equation Group](https://en.wikipedia.org/wiki/Equation_Group), a notorious, highly-sophisticated cyber attack group.
+This repository contains the decrypted and decompressed contents of the `eqgrp-free-file.tar.xz` file released by "The Shadow Brokers". 'The Shadow Brokers' are attempting to sell a waterdown version of the orginal source files.  As we know at this time, 2 true copies exist beside 'DarkLords.'\
+
+1. Wikileaks copy
+2. Kim dot  Com copy
+
+The contents are supposedly a free sample of the files exfiltrated from the [Equation Group](https://en.wikipedia.org/wiki/Equation_Group), a notorious, highly-sophisticated cyber attack group.
 
 The Shadow Brokers have opened an auction to sell off the remaining files, although the legitimacy of the auction is widely disputed. See the original auction announcement here: [https://theshadowbrokers.tumblr.com/post/148872852770/equation-group-cyber-weapons-auction-invitation](https://web.archive.org/web/20160815190830/https://theshadowbrokers.tumblr.com/post/148872852770/equation-group-cyber-weapons-auction-invitation)
 
@@ -77,10 +82,15 @@ rrtpp – show radio transmission transcoder pool details;
 
 HOME-GROWN
 203.199.89.80 IP address information
+
  Geolocation
+ 
 Country IN
+
 Autonomous System4755 (TATA Communications formerly VSNL is Leading ISP)
+
  Passive DNS replication
+ 
 VirusTotal's passive DNS only stores address records. The following domains resolved to the given IP address.
 No domains! VirusTotal has never resolved any domain name to the IP address under consideration.
  Latest detected URLs
