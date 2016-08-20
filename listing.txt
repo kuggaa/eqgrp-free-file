@@ -1,3 +1,5 @@
+
+HARDWARE/BrandMakeincluded in this file path
 -rw-rw-r-- user/user         8 2011-06-28 17:46 Firewall/BLATSTING/BLATSTING_20040/LP/lpconfig/m04000000/m04000000.modulename
 -rwxrwxr-x user/user     77493 2013-06-11 10:20 Firewall/BANANAGLEE/BG3100/Install/LP/Modules/PIX/CLUCKLINE-3101.exe
 -rwxrwxr-x user/user    584471 2013-06-11 10:20 Firewall/EXPLOITS/EPBA/BG2200/Install/LP/objcopy
