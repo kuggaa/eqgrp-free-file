@@ -1,0 +1,4 @@
+NOTES
+Restore Defcon Files
+Folders back orginal naming convention.
+bin/current/
