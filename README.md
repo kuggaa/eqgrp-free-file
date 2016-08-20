@@ -4,6 +4,8 @@ Defcon/LV Group
 
 This repository is a water downed version of what was originally represented to Defcon LV Group.  'DarkLord' contacted the LV Defcon regarding the release of RAR file which was 783 MB in size.
 
+All ARM circa 2013/2014 chips are missing from source.
+
 False reporting from the news includes the existance of the Equation Group. The Russian Federation has named The Equation Group.
 
 'DarkLord' originally named the files as NSA TAO malware.  TheEquationGroup news release represents Russian Federation control of the source.
