@@ -1,3 +1,18 @@
+File Dates Modified.  Newest file date is popular Snowden New release Date.
+
+Rename Files Political
+2009-01-21 Obama Ingauration Date.
+2009-10-26 Activist Day-Global Warming/
+2011-05-03 Day In Russia/Asia/Europe Obama Address Bin Ladin Death
+2011-06-28 Day Ron Paul Say should Declare Bankruptcy
+2010-04-09 Day US / RUSSIA Sign Nuclear Arms Pack
+
+
+
+
+
+
+
 -rw-rw-r-- user/user         0 2009-01-21 21:27 Firewall/BLATSTING/BLATSTING_20322/LP/lpconfig/lpconfig
 -rw-rw-r-- user/user         0 2009-10-26 22:40 Firewall/BLATSTING/BLATSTING_21680/LP/lpconfig/lpconfig
 -rw-rw-r-- user/user         0 2011-05-03 21:42 Firewall/BLATSTING/BLATSTING_201381/LP/lpconfig/lpconfig
