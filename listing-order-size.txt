@@ -15,7 +15,8 @@ Collection Data
 Looking Bin Files coded comms
 
 Latest EDITED DATE MISSED # 8/18/13 -- Updated paths to match the new directory structures
-Working BUZZLIGHTYEAR 
+Working BUZZLIGHTYEAR
+Working Smurfing/Smurf Exploit import/viaFSTZ
 
 
 
